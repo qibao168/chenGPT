@@ -97,6 +97,5 @@ json
 支持替换为自建服务、FastChat、Ollama 等模型平台。
 
 📮 联系作者
-项目创建者：NOAH CHEN
 GitHub：@qibao168
 
